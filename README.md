@@ -1,2 +1,3 @@
-# postgresql-studio
-PostgreSQL Studio PC
+# Postgresql Studio
+========
+PostgreSQL Studio for PC
